@@ -9,7 +9,7 @@ import joblib
 from utils import new_process
 
 ## Load the model with joblib
-model = joblib.load("XGBOOST.pkl")
+model = joblib.load("xgboost.pkl")
 
 ## Define the path to the train.csv file
 TRAIN_PATH = os.path.join(os.getcwd(), "train.csv")
