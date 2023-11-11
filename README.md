@@ -1,8 +1,11 @@
 # Epsilon-Final-Project
 **Airline Passenger Satisfaction EDA &amp; Modeling &amp; Deployment.**
 
-----------------------------
-<img src="airline.jpg">
-----------------------------
-> [Deployment Using Streamlit](https://airlinepassengersatisfaction-samirhendawy.streamlit.app/)
-----------------------------
+![Airline Image](airline.jpg)
+
+### Overview
+This project focuses on exploring and analyzing airline passenger satisfaction. The process includes extensive Exploratory Data Analysis (EDA), modeling, and deployment.
+
+### Streamlit Deployment
+Check out the live deployment of this project using Streamlit: [Deployment Using Streamlit](https://airlinepassengersatisfaction-samirhendawy.streamlit.app/)
+
